@@ -2,7 +2,12 @@
   "appId": "com.vhs.retroapp",
   "appName": "VHS Retro",
   "webDir": "www",
-  "bundledWebRuntime": false
+  "bundledWebRuntime": false,
+  "server": {
+    "allowNavigation": ["alexandrovsksupport.c6t.ru"],
+    "cleartext": true
+  }
 }
+
 
 
