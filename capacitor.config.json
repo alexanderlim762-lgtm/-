@@ -1,13 +1,16 @@
 {
-  "appId": "com.vhs.retroapp",
-  "appName": "VHS Retro",
+  "appId": "com.vhsalexandrovsk.os",
+  "appName": "vhsalexandrovskOS",
   "webDir": "www",
   "bundledWebRuntime": false,
   "server": {
-    "allowNavigation": ["alexandrovsksupport.c6t.ru"],
+    "allowNavigation": [
+      "alexandrovsksupport.c6t.ru",
+      "github.com"
+    ],
     "cleartext": true
+  },
+  "android": {
+    "minSdkVersion": 33
   }
 }
-
-
-
