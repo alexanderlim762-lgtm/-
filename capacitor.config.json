@@ -1,0 +1,8 @@
+{
+  "appId": "com.vhs.retroapp",
+  "appName": "VHS Retro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
+
+
