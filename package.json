@@ -2,7 +2,7 @@
   "name": "vhs.retro.app",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p www && cp index.html vcr_osd.ttf music1.mp3 www/"
+    "build": "mkdir -p www && cp index.html vcr_osd.ttf play.mp3 archive_cassete.mp4 www/"
   },
   "dependencies": {
     "@capacitor/android": "^5.0.0",
@@ -10,5 +10,3 @@
     "@capacitor/core": "^5.0.0"
   }
 }
-
-
