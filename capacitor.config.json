@@ -4,13 +4,11 @@
   "webDir": "www",
   "bundledWebRuntime": false,
   "server": {
-    "allowNavigation": [
-      "alexandrovsksupport.c6t.ru",
-      "github.com"
-    ],
+    "allowNavigation": ["github.com"],
     "cleartext": true
   },
   "android": {
     "minSdkVersion": 33
   }
 }
+
