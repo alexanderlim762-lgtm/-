@@ -1,6 +1,6 @@
 {
-  "name": "vhs.retro.app",
-  "version": "1.0.2",
+  "name": "vhsalexandrovsk-os",
+  "version": "2.0.1",
   "scripts": {
     "build": "mkdir -p www && cp index.html vcr_osd.ttf play.mp3 archive_cassete.mp4 www/"
   },
@@ -10,3 +10,4 @@
     "@capacitor/core": "^5.0.0"
   }
 }
+
